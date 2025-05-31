@@ -84,21 +84,10 @@ REDIS_URL=redis://localhost:6379
 
 ### Setup
 \`\`\`bash
-# Install dependencies
-npm install
 
 # Install client dependencies
 cd client && npm install && cd ..
 
-# Start development servers
-npm run dev
-
-# Build for production
-npm run build
-
-# Deploy to Vercel
-npm run deploy
-\`\`\`
 
 ## 🏗️ Architecture
 
