@@ -82,8 +82,6 @@ REACT_APP_WS_URL=wss://sugi-parfume.vercel.app
 REDIS_URL=redis://localhost:6379
 \`\`\`
 
-### Setup
-\`\`\`bash
 
 # Install client dependencies
 cd client && npm install && cd ..
